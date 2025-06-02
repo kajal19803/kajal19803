@@ -1,4 +1,4 @@
-👋 Hi, I’m @kajal19803
+👋 Hi, I’m kajal verma
 
 👀 I’m interested in web development, especially full-stack projects using React and Node.js
 

@@ -1,17 +1,143 @@
-👋 Hi, I’m kajal verma
+<h1 align="center">
+Hi 👋, I'm Kajal Verma
+</h1>
 
-👀 I’m interested in web development, especially full-stack projects using React and Node.js
+<h3 align="center">
+Full Stack MERN Developer | Final Year Computer Engineering Student | Building Real World Products
+</h3>
 
-🌱 I’m currently learning advanced JavaScript and backend technologies
+<p align="center">
+I enjoy building scalable web applications that solve real business problems.
+Currently focused on MERN Stack, Authentication, Payments, AI Integration and Backend Development.
+</p>
 
-💞️ I’m looking to collaborate on open-source projects related to dairy management, e-commerce, and real-time applications
+---
 
-📫 How to reach me:kajalverma6263@gmail.com 
+## 🚀 About Me
 
-😄 Pronouns: She/Her
+- 🎓 Final Year B.Tech Computer Engineering Student at **NIAMT Ranchi**
 
-⚡ Fun fact: I love experimenting with new coding challenges and building projects that solve real-world problems
-<!---
-kajal19803/kajal19803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Full Stack MERN Developer
+
+- 🚀 Built a production-ready dairy e-commerce platform for a real business
+
+- 🔐 Experienced in JWT Authentication, Role Based Access Control & Secure APIs
+
+- 💳 Integrated Payment Gateway and Order Management
+
+- 🤖 Exploring AI-powered web applications
+
+- 🌱 Currently learning
+  - Advanced JavaScript
+  - Backend Architecture
+  - System Design
+
+- 📫 Reach me at
+  **kajalverma6263@gmail.com**
+  ## 🛠 Tech Stack
+
+Frontend
+
+React.js
+JavaScript
+Tailwind CSS
+HTML
+CSS
+
+Backend
+
+Node.js
+Express.js
+
+Database
+
+MongoDB
+Mongoose
+
+Authentication
+
+JWT
+bcrypt
+
+Tools
+
+Git
+GitHub
+Postman
+Render
+Cloudinary
+VS Code
+
+# ⭐ Featured Project
+
+## 🥛 Uma Dairy
+
+A complete MERN Stack E-Commerce platform built for a real dairy business.
+
+### Features
+
+✔ JWT Authentication
+
+✔ Guest Cart + Auto Merge after Login
+
+✔ Wishlist
+
+✔ Order Management
+
+✔ Payment Integration
+
+✔ Admin Dashboard
+
+✔ Product Management
+
+✔ Image Upload
+
+✔ AI Assisted Customer Support
+
+Tech Used
+
+React
+
+Node.js
+
+Express
+
+MongoDB
+
+Tailwind CSS
+
+JWT
+
+## 📈 GitHub Stats
+
+🔥 Building consistently
+
+🚀 Focused on quality projects
+
+💻 MERN Stack
+
+⭐ Open Source Learner
+
+## 🎯 Current Focus
+
+Building scalable web applications
+
+Learning Backend Architecture
+
+Improving Problem Solving
+
+Preparing for Software Engineering Roles
+
+## 🤝 Connect with Me
+
+📧 Email
+kajalverma6263@gmail.com
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+💻 GitHub
+
+> "I don't just build projects.
+> I build solutions that people can actually use."

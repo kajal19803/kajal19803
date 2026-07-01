@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F97354&height=260&section=header&text=Kajal%20Verma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=F97354&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Building+Scalable+Web+Applications;MERN+%7C+TypeScript+%7C+Python+%7C+Docker;Backend+Developer;Open+to+Software+Engineering+Roles"/>
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Kajal Verma
+### 🚀 Full Stack Software Engineer
 
-### 🚀 Full Stack MERN Developer • Final Year Computer Engineering Student • India 🇮🇳
+Final Year Computer Engineering Student • NIAMT Ranchi 🇮🇳
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=F97354&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Real+World+Applications;React+%7C+Node+%7C+MongoDB;Backend+Developer;Always+Learning+New+Things"/>
+Building scalable web applications with modern technologies.
 
 <p>
 
@@ -121,7 +121,11 @@ A production-ready MERN Stack E-Commerce Platform built for a real dairy busines
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,python,tailwind,bootstrap,git,github,postman,npm,vscode&perline=10"/>
+
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudinary,vercel,render,firebase,supabase"/>
 
 </div>
 

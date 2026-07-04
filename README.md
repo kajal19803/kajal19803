@@ -200,11 +200,11 @@ const Kajal = {
 
 <div align="center">
 
-<a href="[https://leetcode.com/](https://leetcode.com/u/kajalverma6263/)">
+<a href="https://leetcode.com/u/kajalverma6263">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/](https://www.hackerrank.com/profile/kajalverma6263">
+<a href="https://www.hackerrank.com/profile/kajalverma6263">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
